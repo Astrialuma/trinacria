@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="/index.css">
     <link rel="stylesheet" href="/home/homepage.css">
 
-    <!-- jQuery -->
+    <!-- jQuery ff-->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <!-- Font Awesome Icons -->
