@@ -1,0 +1,147 @@
+/* LOGO OBEN RECHTS */
+
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: var(--black);
+    padding: 20px 0;
+    text-align: center;
+    z-index: 1000;
+}
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: var(--white);
+    letter-spacing: 2px;
+    transition: 0.3s;
+}
+
+nav ul li a:hover {
+    color: var(--red);
+}
+.nav-logo {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+.nav-logo img {
+    width: 200px;
+    filter: grayscale(100%);
+    transition: 0.3s;
+}
+
+.nav-logo img:hover {
+    filter: grayscale(0%);
+}
+
+/* HERO */
+
+a{
+    color: var(--red)
+}
+.footer-line{
+    margin: 20px;
+}
+
+.hero {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+}
+.hero-image{
+    width: 100%;
+}
+
+.hero img {
+    width: 100%;
+    max-height: 70vh;
+    object-fit: cover;
+    filter: grayscale(100%);
+}
+
+.hero h1 {
+    margin-top: 30px;
+    font-size: 48px;
+    letter-spacing: 10px;
+}
+
+/* GALLERY */
+
+.gallery-section {
+    padding: 100px 0;
+    overflow: hidden;
+}
+
+.gallery-wrapper {
+    width: 100%;
+    overflow: hidden;
+}
+
+.gallery {
+    display: flex;
+    gap: 40px;
+}
+
+.gallery img {
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+    filter: grayscale(100%);
+    transition: 0.3s;
+}
+
+.gallery img:hover {
+    filter: grayscale(0%);
+    transform: scale(1.05);
+}
+
+/* SHOWS */
+
+.shows {
+    padding: 100px 10%;
+    text-align: center;
+}
+
+.shows h2 {
+    margin-bottom: 40px;
+    letter-spacing: 5px;
+}
+
+.show {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid var(--red);
+    padding: 15px 0;
+}
+
+/* FOOTER */
+
+footer {
+    padding: 60px 0;
+    text-align: center;
+}
+
+.socials a {
+    color: var(--white);
+    font-size: 24px;
+    margin: 0 15px;
+    transition: 0.3s;
+}
+
+.socials a:hover {
+    color: var(--red);
+}
