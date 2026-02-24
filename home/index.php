@@ -81,7 +81,7 @@
         <h2>UPCOMING SHOWS</h2>
         <div class="show-list">
             <div class="show">
-                <span>14.04.2026</span>
+                <span>14.03.2026</span>
                 <span>Bonn – TOYS2MASTERS</span>
                 <button>Book</button>
             </div>
