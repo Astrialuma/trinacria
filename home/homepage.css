@@ -126,6 +126,8 @@ a{
     justify-content: space-between;
     border-bottom: 1px solid var(--red);
     padding: 15px 0;
+    position: relative;
+    align-items: center;
 }
 
 /* FOOTER */
@@ -151,4 +153,9 @@ footer {
     background-color: transparent;
     color: transparent;
     pointer-events: none;
+}
+.location{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
 }

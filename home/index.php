@@ -84,21 +84,24 @@
         <div class="show-list">
             <div class="show">
                 <span>14.03.2026</span>
-                <span>Bonn – TOYS2MASTERS</span>
-                <a href="https://shop.ticketpay.de/GSWC6VUL?fbclid=PAb21jcAQMDk9leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadW3B1oU2WMAhaWZ0ucYk-Wzt6xaQS209G7d_FhR2V9lNkLR_WINg0gi18AcA_aem_NX6fnrIjf2XPG6IlluqsjA">
+                <span class="location">Bonn – TOYS2MASTERS</span>
+                <a href="https://www.sph-music-masters.de/tickets/index/4101">
                     <button>Book</button>
                 </a>
             </div>
             <div class="show">
                 <span>05.04.2026</span>
-                <span>Essen – Dont Panic</span>
-                <button class="invisible">Book</button>
+                <span class="location">Essen – Dont Panic</span>
+                <a href="https://shop.ticketpay.de/GSWC6VUL?fbclid=PAb21jcAQMDk9leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadW3B1oU2WMAhaWZ0ucYk-Wzt6xaQS209G7d_FhR2V9lNkLR_WINg0gi18AcA_aem_NX6fnrIjf2XPG6IlluqsjA">
+                    <button>Book</button>
+                </a>
             </div>
             <div class="show">
                 <span>24.04.2026</span>
-                <span>Köln – SPH</span>
-                <button class="invisible">Book</button>
-                
+                <span class="location">Köln – SPH</span>
+                <a href="https://www.instagram.com/trinacria_.band">
+                    <button>Book via insta DM</button>
+                </a>
             </div>
         </div>
     </section>
