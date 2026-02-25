@@ -5,6 +5,8 @@
     <title>TRINACRIA</title>
     <link rel="stylesheet" href="/index.css">
     <link rel="stylesheet" href="/home/homepage.css">
+    <link rel="icon" type="image/png" href="/favicon.png" />
+
 
     <!-- jQuery ff-->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -83,17 +85,17 @@
             <div class="show">
                 <span>14.03.2026</span>
                 <span>Bonn – TOYS2MASTERS</span>
-                <button>Book</button>
+                <a href="https://shop.ticketpay.de/GSWC6VUL?fbclid=PAb21jcAQMDk9leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadW3B1oU2WMAhaWZ0ucYk-Wzt6xaQS209G7d_FhR2V9lNkLR_WINg0gi18AcA_aem_NX6fnrIjf2XPG6IlluqsjA">
+                    <button>Book</button>
+                </a>
             </div>
             <div class="show">
                 <span>05.04.2026</span>
                 <span>Essen – Dont Panic</span>
-                <button>Book</button>
             </div>
             <div class="show">
                 <span>24.04.2026</span>
                 <span>Köln – SPH</span>
-                <button>Book</button>
             </div>
         </div>
     </section>
