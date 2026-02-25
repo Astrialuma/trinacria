@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>TRINACRIA</title>
-    <link rel="stylesheet" href="/index.css">
-    <link rel="stylesheet" href="/home/homepage.css">
+    <link rel="stylesheet" href="/index.css?v=1">
+    <link rel="stylesheet" href="/home/homepage.css?v=1">
     <link rel="icon" type="image/png" href="/favicon.png" />
 
 
