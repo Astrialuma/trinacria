@@ -92,10 +92,12 @@
             <div class="show">
                 <span>05.04.2026</span>
                 <span>Essen – Dont Panic</span>
+                <div></div>
             </div>
             <div class="show">
                 <span>24.04.2026</span>
                 <span>Köln – SPH</span>
+                <div></div>
             </div>
         </div>
     </section>
