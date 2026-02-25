@@ -85,9 +85,10 @@
             <div class="show">
                 <span>14.03.2026</span>
                 <span class="location">Bonn – TOYS2MASTERS</span>
-                <a href="https://www.sph-music-masters.de/tickets/index/4101">
-                    <button>Book</button>
+                <a href="https://www.instagram.com/trinacria_.band">
+                    <button>Book via insta DM</button>
                 </a>
+
             </div>
             <div class="show">
                 <span>05.04.2026</span>
@@ -99,8 +100,8 @@
             <div class="show">
                 <span>24.04.2026</span>
                 <span class="location">Köln – SPH</span>
-                <a href="https://www.instagram.com/trinacria_.band">
-                    <button>Book via insta DM</button>
+                <a href="https://www.sph-music-masters.de/tickets/index/4101">
+                    <button>Book</button>
                 </a>
             </div>
         </div>
