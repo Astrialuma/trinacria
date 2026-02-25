@@ -145,3 +145,10 @@ footer {
 .socials a:hover {
     color: var(--red);
 }
+
+.invisible{
+    border: none;
+    background-color: transparent;
+    color: transparent;
+    pointer-events: none;
+}
