@@ -88,7 +88,7 @@
             <img src="/public/images/banner.png" alt="TRINACRIA Live Banner">
         </div>
         <h1>TRINACRIA</h1>
-        <p>Living Here is living dead </p>
+        <p>Living here is living dead </p>
         <br><br>
         <p></p>
     </section>
