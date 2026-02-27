@@ -5,7 +5,7 @@ $(document).ready(function () {
 
     let position = 0;
 
-    const baseSpeed = 0.1;
+    const baseSpeed = 0.15;
     let velocity = baseSpeed;
 
     let skipping = false;
