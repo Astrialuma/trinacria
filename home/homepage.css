@@ -177,7 +177,7 @@ footer {
 @media (max-width: 700px){
     .hero{
         margin-top: 20vw;
-        height: 40vh;
+        height: auto;
         justify-content: start;
     }
     nav ul{
@@ -191,5 +191,11 @@ footer {
     }
     .nav-logo img{
         width: 50vw !important;
+    }
+    .gallery img{
+        height: 50vw;
+    }
+    #gallery{
+        padding: 10vw 0;
     }
 }

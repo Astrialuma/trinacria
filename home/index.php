@@ -19,8 +19,8 @@
     <meta property="og:url" content="https://www.trinacria.band">
     <meta property="og:type" content="website">
 
-    <link rel="stylesheet" href="/index.css?v=2">
-    <link rel="stylesheet" href="/home/homepage.css?v=2">
+    <link rel="stylesheet" href="/index.css?v=3">
+    <link rel="stylesheet" href="/home/homepage.css?v=3">
 
     <!-- Standard Favicon -->
     <link rel="icon" href="/public/images/favicon/favicon.ico" sizes="any">
