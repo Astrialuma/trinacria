@@ -195,7 +195,7 @@ footer {
     .gallery img{
         height: 50vw;
     }
-    #gallery{
+    #gallery, .shows{
         padding: 10vw 0;
     }
 }
