@@ -19,10 +19,23 @@
     <meta property="og:url" content="https://www.trinacria.band">
     <meta property="og:type" content="website">
 
-    <link rel="stylesheet" href="/index.css?v=1">
-    <link rel="stylesheet" href="/home/homepage.css?v=1">
-    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="stylesheet" href="/index.css?v=2">
+    <link rel="stylesheet" href="/home/homepage.css?v=2">
 
+    <!-- Standard Favicon -->
+    <link rel="icon" href="/public/images/favicon/favicon.ico" sizes="any">
+
+    <!-- PNG Favicons -->
+    <link rel="icon" type="image/png" sizes="16x16" href="/public/images/favicon/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/public/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="/public/images/favicon/favicon.png">
+
+    <!-- Apple -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/public/images/favicon/apple-touch-icon.png">
+
+    <!-- Android / PWA -->
+    <link rel="icon" type="image/png" sizes="192x192" href="/public/images/favicon/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="/public/images/favicon/android-chrome-512x512.png">
     <!-- jQuery -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
@@ -116,6 +129,7 @@
                 <img src="/public/images/12.jpg" alt="TRINACRIA Final Song">
             </div>
         </div>
+        <button onclick="skipImage()">Skip image ></button>
     </section>
 
     <!-- UPCOMING SHOWS -->
@@ -124,11 +138,13 @@
         <div class="show-list">
 
             <div class="show">
-                <span>14.03.2026</span>
                 <span class="location">Bonn – TOYS2MASTERS</span>
-                <a href="https://www.instagram.com/trinacria_.band">
-                    <button>Book via Insta DM</button>
-                </a>
+                <div>
+                    <span>14.03.2026</span>
+                    <a href="https://www.instagram.com/trinacria_.band">
+                        <button>Book via Insta DM</button>
+                    </a>
+                </div>
             </div>
 
             <div class="show">

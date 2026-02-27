@@ -112,7 +112,7 @@ a{
 /* SHOWS */
 
 .shows {
-    padding: 100px 10%;
+    padding: 100px 5%;
     text-align: center;
 }
 
@@ -129,7 +129,18 @@ a{
     position: relative;
     align-items: center;
 }
-
+.show > span{
+    max-width: 30vw;
+}
+.show > div{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.show button{
+    max-width: 25vw;
+}
 /* FOOTER */
 
 footer {
@@ -158,4 +169,27 @@ footer {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
+}
+ #gallery button{
+    margin: 20px !important;
+}
+
+@media (max-width: 700px){
+    .hero{
+        margin-top: 20vw;
+        height: 40vh;
+        justify-content: start;
+    }
+    nav ul{
+        position: absolute;
+        width: 50vw;
+        right: 0;
+        top:5vw
+    }
+    nav ul li {
+        margin: 7px 0;
+    }
+    .nav-logo img{
+        width: 50vw !important;
+    }
 }
