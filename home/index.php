@@ -20,7 +20,7 @@
     <meta property="og:type" content="website">
 
     <link rel="stylesheet" href="/index.css?v=4">
-    <link rel="stylesheet" href="/home/homepage.css?v=4">
+    <link rel="stylesheet" href="/home/homepage.css?v=5">
 
     <!-- Standard Favicon -->
     <link rel="icon" href="/public/images/favicon/favicon.ico" sizes="any">
