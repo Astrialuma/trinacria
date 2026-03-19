@@ -147,6 +147,13 @@
             </div>
 
             <div class="show">
+                <span>18.04.2026</span>
+                <span class="location">Jugencultcafé – Troisdorf</span>
+                <a href="/">
+                </a>
+            </div>
+
+            <div class="show">
                 <span>24.04.2026</span>
                 <span class="location">Köln – SPH</span>
                 <a href="https://www.sph-music-masters.de/tickets/index/4101">
@@ -154,12 +161,7 @@
                 </a>
             </div>
 
-            <div class="show">
-                <span>18.04.2026</span>
-                <span class="location">Jugencultcafé – Troisdorf</span>
-                <a href="/">
-                </a>
-            </div>
+
 
         </div>
     </section>
