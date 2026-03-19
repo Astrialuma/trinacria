@@ -167,14 +167,14 @@
     <!-- FOOTER / SOCIAL -->
     <footer id="contact">
         <div class="socials">
-            <a href="mailto:info@trinacria.band"><i class="fa-regular fa-envelope"></i></a>
+            <a href="mailto:band.trinacria@gmail.com"><i class="fa-regular fa-envelope"></i></a>
             <a href="https://www.instagram.com/trinacria_.band"><i class="fab fa-instagram"></i></a>
             <a href="https://open.spotify.com/artist/[SPOTIFY_ID]"><i class="fab fa-spotify"></i></a>
             <a href="https://youtube.com/@[YOUTUBE_CHANNEL]"><i class="fab fa-youtube"></i></a>
             <a href="https://www.tiktok.com/@trinacriaband"><i class="fa-brands fa-tiktok"></i></a>
         </div>
         <div class="footer-line">
-            <a href="mailto:info@trinacria.band">info@trinacria.band</a>
+            <a href="mailto:band.trinacria@gmail.com">band.trinacria@gmail.com</a>
         </div>
     </footer>
 
