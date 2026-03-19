@@ -137,15 +137,6 @@
         <h2>UPCOMING SHOWS</h2>
         <div class="show-list">
 
-            <div class="show">
-                <span class="location">Bonn – TOYS2MASTERS</span>
-                <div>
-                    <span>14.03.2026</span>
-                    <a href="https://www.instagram.com/trinacria_.band">
-                        <button>Book via Insta DM</button>
-                    </a>
-                </div>
-            </div>
 
             <div class="show">
                 <span>05.04.2026</span>
@@ -160,6 +151,13 @@
                 <span class="location">Köln – SPH</span>
                 <a href="https://www.sph-music-masters.de/tickets/index/4101">
                     <button>Tickets</button>
+                </a>
+            </div>
+
+            <div class="show">
+                <span>18.04.2026</span>
+                <span class="location">Jugencultcafé – Troisdorf</span>
+                <a href="/">
                 </a>
             </div>
 
