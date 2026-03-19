@@ -176,7 +176,7 @@
             <a href="https://www.tiktok.com/@trinacriaband"><i class="fa-brands fa-tiktok"></i></a>
         </div>
         <div class="footer-line">
-            <a href="mailto:info@trinacria.band">info@trinacria.band</a>
+            <a href="mailto:band.trinacria@gmail.com">band.trinacria@gmail.com</a>
         </div>
     </footer>
 
