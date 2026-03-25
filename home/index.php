@@ -161,6 +161,14 @@
                 </a>
             </div>
 
+            <div class="show">
+                <span>29.05.2026</span>
+                <span class="location">Duisburg – ZAP</span>
+                <a href="https://eventfrog.de/de/p/konzerte/hard-rock-heavy-metal/heimspiel-the-monistic-biased-trinacria-7442570308165318620.html?fbclid=PAdGRzdgQw4YRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafByKyXwYeCakCFzv5zo6f8AR3HIHAwbdMATookjsZWRGn_kt2mz4fhkDuv_w_aem_oI5Vt9oD7tYjmGc8rACuaA">
+                    <button>Tickets</button>
+                </a>
+            </div>
+
 
 
         </div>
