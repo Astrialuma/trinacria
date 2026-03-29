@@ -137,15 +137,15 @@
         <h2>UPCOMING SHOWS</h2>
         <div class="show-list">
 
-
-            <div class="show">
+    <!--
+            <div class="show hidden">
                 <span>05.04.2026</span>
                 <span class="location">Essen – Dont Panic</span>
                 <a href="https://shop.ticketpay.de/GSWC6VUL">
                     <button>Tickets</button>
                 </a>
             </div>
-
+-->
             <div class="show">
                 <span>18.04.2026</span>
                 <span class="location">Jugencultcafé – Troisdorf</span>
