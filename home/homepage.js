@@ -1,5 +1,5 @@
 $(document).ready(function () {
-
+    window.location.replace("https://app.backstagepro.de/purepanic");
     const $gallery = $('.gallery');
     const $images = $gallery.children();
 
